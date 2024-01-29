@@ -1,5 +1,7 @@
 <h1>Home Furnishing Page</h1>
 
+![Home Furnishing gif](./images/Home-Furnishing.gif)
+
 [👉click here to login Home Furnishing Page](https://ilkerkr.github.io/Home-Furnishing/)
 
 <h2> Description</h2>
